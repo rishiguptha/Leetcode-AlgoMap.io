@@ -94,7 +94,7 @@ Below is an overview of the folder structure in this repository:
 
 Each folder represents a section of the roadmap, containing problem descriptions, my solutions, and detailed explanations.
 
-Usage
+# Usage
 
 To explore and test the solutions on your local machine, follow these steps:
 
@@ -114,7 +114,7 @@ To explore and test the solutions on your local machine, follow these steps:
 
 4.	Run the code using your preferred programming language.
 
-Contributing
+# Contributing
 
 Contributions are welcome! If you have improvements or new solutions:
 	1.	Fork the repository.
@@ -125,7 +125,7 @@ Contributions are welcome! If you have improvements or new solutions:
 
 Let’s build a strong DSA community together!
 
-License
+# License
 
 This project is distributed under the MIT License. See the LICENSE file for more details.
 
