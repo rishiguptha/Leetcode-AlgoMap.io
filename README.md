@@ -90,6 +90,7 @@ Below is an overview of the folder structure in this repository:
 │   ├── Problem1.md
 │   └── solution.java
 └── README.md
+```
 
 Each folder represents a section of the roadmap, containing problem descriptions, my solutions, and detailed explanations.
 
@@ -97,14 +98,14 @@ Usage
 
 To explore and test the solutions on your local machine, follow these steps:
 	1.	Clone the repository:
-
-git clone https://github.com/yourusername/your-repo.git
-
+    ```plaintext
+    git clone https://github.com/yourusername/your-repo.git
+    ```
 
 	2.	Navigate into the project directory:
-
-cd your-repo
-
+    ```plaintext
+    cd your-repo
+    ```
 
 	3.	Select a folder corresponding to the topic of interest (e.g., Arrays_And_Strings) and open the problem file along with its solution.
 	4.	Run the code using your preferred programming language.
