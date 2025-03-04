@@ -1,6 +1,6 @@
 # DSA Solutions Repository
 
-[![DSA Roadmap](https://img.shields.io/badge/DSA-Roadmap-0d6efd)](https://algomap.io) [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/yourusername/your-repo/issues)
+[![DSA Roadmap](https://img.shields.io/badge/DSA-Roadmap-0d6efd)](https://algomap.io)
 
 ![AlgoMap Banner](https://dummyimage.com/1200x300/0d6efd/ffffff.png&text=AlgoMap.io+DSA+Roadmap)
 
