@@ -1,5 +1,3 @@
-Below is the complete content for your README.md file. You can copy the content below into a file named README.md in your repository.
-
 # DSA Solutions Repository
 
 [![DSA Roadmap](https://img.shields.io/badge/DSA-Roadmap-0d6efd)](https://algomap.io) [![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo)](https://github.com/yourusername/your-repo/stargazers) [![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo)](https://github.com/yourusername/your-repo/issues)
