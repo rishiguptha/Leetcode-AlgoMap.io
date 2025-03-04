@@ -53,42 +53,16 @@ Below is an overview of the folder structure in this repository:
 ```plaintext
 .
 ├── Arrays_And_Strings
-│   ├── Problem1.md
-│   ├── Problem2.md
-│   └── solution.py
 ├── Hashmaps_And_Sets
-│   ├── Problem1.md
-│   └── solution.java
 ├── Two_Pointers
-│   ├── Problem1.md
-│   └── solution.cpp
 ├── Stacks
-│   ├── Problem1.md
-│   └── solution.py
 ├── Linked_Lists
-│   ├── Problem1.md
-│   └── solution.js
 ├── Binary_Search
-│   ├── Problem1.md
-│   └── solution.java
 ├── Sliding_Window
-│   ├── Problem1.md
-│   └── solution.py
 ├── Trees
-│   ├── Problem1.md
-│   └── solution.cpp
-├── Heaps
-│   ├── Problem1.md
-│   └── solution.java
 ├── Recursive_Backtracking
-│   ├── Problem1.md
-│   └── solution.py
 ├── Graphs
-│   ├── Problem1.md
-│   └── solution.cpp
 ├── Dynamic_Programming
-│   ├── Problem1.md
-│   └── solution.java
 └── README.md
 ```
 
